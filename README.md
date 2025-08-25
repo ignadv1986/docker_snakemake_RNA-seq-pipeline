@@ -18,7 +18,7 @@ cd rna_seq_pipeline
 
 2) Set up the environment  
 Use Conda to install required tools:  
-conda create -n rnaseq -c bioconda -c conda-forge snakemake subread r-base r-deseq2 r-apeglm
+conda create -n rnaseq -c bioconda -c conda-forge snakemake subread r-base r-deseq2 r-apeglm  
 conda activate rnaseq
 
 3) Prepare your input  
