@@ -13,7 +13,7 @@ This repository contains a flexible and reproducible RNA-Seq analysis pipeline b
 - Ready for visualization and/or further analysis data generation.
 ## Instructions
 1) Clone the repository:
-git clone https://github.com/yourusername/rna_seq_pipeline.git
+git clone https://github.com/ignalo1986/snakemake_RNA-seq-pipeline.git
 cd rna_seq_pipeline
 2) Set up the environment:
 Use Conda to install required tools:
