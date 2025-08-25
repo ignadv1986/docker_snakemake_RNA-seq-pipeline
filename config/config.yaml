@@ -1,0 +1,19 @@
+# Paths
+data_dir: "data"
+metadata_file: "metadata/samples.tsv"
+gtf_file: "data/gencode.v41.annotation.gtf"
+results_dir: "results"
+
+# featureCounts parameters
+featurecounts:
+  nthreads: 4
+  isPairedEnd: true
+  GTF:
+    featureType: exon
+    attrType: gene_id
+
+# DESeq2 conditions - change these to your experiment!
+conditions:
+  treatment: KO
+  control: WT
+

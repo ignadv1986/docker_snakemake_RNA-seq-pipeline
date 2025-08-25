@@ -1,0 +1,6 @@
+sample	condition	cell_line	bam
+Hela_KO_1	KO	Hela	data/Hela_KO_1.markdup.sorted.bam
+Hela_KO_2	KO	Hela	data/Hela_KO_2.markdup.sorted.bam
+Hela_WT_1	WT	Hela	data/Hela_WT_1.markdup.sorted.bam
+Hela_WT_2	WT	Hela	data/Hela_WT_2.markdup.sorted.bam
+
