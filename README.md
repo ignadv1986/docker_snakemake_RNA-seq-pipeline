@@ -5,7 +5,7 @@ This repository contains a flexible and reproducible RNA-Seq analysis pipeline b
 ## Requirements
 - Snakemake
 - R with Bioconductor packages: DESeq2, apeglm, etc.
-- fatureCounts (from Subread package)
+- featureCounts (from Subread package)
 ## Features
 - Automated gene counting from BAM files using **featureCounts**.
 - Centralized configuration via **YAML** and sample metadata TSV.
